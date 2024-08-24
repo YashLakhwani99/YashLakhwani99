@@ -1,8 +1,11 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Yash Lakhwani</h1>
 <h3 align="center">B.Tech student specializing in Artificial Intelligence and Data Science, with hands-on experience in Flutter app development and machine learning projects.</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<!-- <img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"> -->
 
 - 🌱 I’m currently learning **Node.js, Express and MongoDB**
+  
+- 👯 I’m looking to collaborate on Flutter Projects
 
 - 💬 Ask me about **Flutter**
 
